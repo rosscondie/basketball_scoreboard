@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  text-align: center;
+  background: #1b244a;
+}
+
+.title {
+  margin: 65px 0px 20px 0px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.score-container {
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+
+#home-score,
+#guest-score {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  color: #f94f6d;
+  background: #080001;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 0;
+}
+
+.btn {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  font-size: 16px;
+  color: #9aabd8;
+  border: 2px solid #9aabd8;
+  background: #1b244a;
+  padding: 10px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#reset-btn {
+  padding: 12px 18px;
+}
+
+.btn:hover {
+  color: #f94f6d;
+  border: 2px solid #f94f6d;
+}
+
+.reset-container {
+  margin: 20px;
+}
