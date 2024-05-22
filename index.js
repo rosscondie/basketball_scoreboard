@@ -21,6 +21,8 @@ function resetGame() {
   guestEl.textContent = 0;
   homeScore = 0;
   guestScore = 0;
+  homeEl.style.border = 'none';
+  guestEl.style.border = 'none';
 }
 
 function winner() {
