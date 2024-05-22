@@ -1,4 +1,3 @@
-// 3 functions - plus1(), plus2(), plus3()
 let homeEl = document.getElementById('home-score');
 let guestEl = document.getElementById('guest-score');
 
