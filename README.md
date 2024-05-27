@@ -2,6 +2,8 @@
 
 ### Web app allowing the user to keep track of Home vs Guest scores for a basketball game.
 
+Deployed [here](https://ross-scoreboard.netlify.app/) using Netlify. 
+
 Following this [Figma Design](https://www.figma.com/design/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?node-id=0-1&t=BScBz24ciwyo8gu9-0) as close as possible.
 
 #### MVP:
